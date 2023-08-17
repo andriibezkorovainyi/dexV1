@@ -2,7 +2,9 @@
 
 Welcome to the DexV1 repository! This repository serves as the central hub for the DexV1 learning project, the main idea is to create a comprehensive platform designed to empower users with seamless access to decentralized exchanges (DEX) for trading cryptocurrencies. DexV1 aims to provide a user-friendly interface, real-time market data, secure wallet integration and trading features .
 
-![DexV1 Preview](https://dexv1.onrender.com)
+[DexV1 Preview](https://dexv1.onrender.com)
+Thanks <a href="https://github.com/alchemyplatform">@alchemyplatform</a> for animation
+
 
 ## Table of Contents
 
